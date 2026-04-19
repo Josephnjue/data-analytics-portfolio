@@ -1,0 +1,4 @@
+worker_id,tasks_completed,accuracy,SLA_met
+1,50,0.95,Yes
+2,40,0.90,No
+3,60,0.97,Yes

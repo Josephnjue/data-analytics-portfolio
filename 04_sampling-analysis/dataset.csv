@@ -1,0 +1,7 @@
+worker_id,task_id,completion_time,accuracy,status,task_type
+1,101,5,0.95,completed,A
+1,102,7,0.90,error,B
+2,103,3,0.98,completed,A
+2,104,6,0.85,error,B
+3,105,4,0.92,completed,A
+3,106,8,0.80,error,C
